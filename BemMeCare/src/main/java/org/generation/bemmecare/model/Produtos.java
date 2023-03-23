@@ -106,7 +106,4 @@ public class Produtos {
 		this.usuario = usuario;
 	}
 
-	
-	
-
 }

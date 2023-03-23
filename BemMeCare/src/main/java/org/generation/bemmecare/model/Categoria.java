@@ -13,6 +13,9 @@ import javax.validation.constraints.NotNull;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+import javax.persistence.Table;
+import javax.validation.constraints.NotNull;
+
 @Entity
 @Table(name = "tb_categorias")
 public class Categoria {
@@ -28,7 +31,6 @@ public class Categoria {
 
 	@NotNull(message = "É obrigatório selecionar o fluxo!")
 	private String fluxo;
-
 	
 	@OneToMany(mappedBy = "categoria", cascade = CascadeType.ALL)
     @JsonIgnoreProperties("categoria")
