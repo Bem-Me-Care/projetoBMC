@@ -1,6 +1,5 @@
 package org.generation.bemmecare.model;
 
-import java.text.SimpleDateFormat;
 import java.util.List;
 
 import javax.persistence.CascadeType;
@@ -27,9 +26,6 @@ public class Usuario {
 
 	@NotNull(message = "É obrigatório informar o usuário de e-mail!")
 	private String usuario;
-	
-	@NotNull(message = "É obrigatório informar a sua data de nascimento!")
-	private SimpleDateFormat nascimento;
 
 	private String foto;
 	
@@ -37,7 +33,7 @@ public class Usuario {
 	private String senha;
 	
 	
-	@OneToMany(mappedBy = "usuario", cascade = CascadeType.ALL)
+	@OneToMany(mappedBy = "usuario", cascade = CascadeType.REMOVE)
     @JsonIgnoreProperties("usuario")
     private List<Produtos> produtos;
 	
@@ -79,14 +75,6 @@ public class Usuario {
 
 	public void setSenha(String senha) {
 		this.senha = senha;
-	}
-
-	public SimpleDateFormat getNascimento() {
-		return nascimento;
-	}
-
-	public void setNascimento(SimpleDateFormat nascimento) {
-		this.nascimento = nascimento;
 	}
 
 	public List<Produtos> getProdutos() {
