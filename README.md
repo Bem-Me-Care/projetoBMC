@@ -68,7 +68,7 @@ Fazemos entregas
 
 # Nossa missão
 
- é a de trazer acesso e dignidade para as pessoas que sofrem com a pobreza menstrual.
+ É a de trazer acesso e dignidade para as pessoas que sofrem com a pobreza menstrual.
  Estamos comprometidos em fornecer produtos de higiene intima de boa qualidade para que possamos melhorar a qualidade de vida dessas pessoas. Além disso, estamos trabalhando para fornecer esses produtos gratuitamente para escolas, para que as pessoas possam ter acesso a eles.
 Ao adquirir produtos em nossa loja, você estará contribuindo para ajudar a combater a pobreza menstrual no Brasil. Nós nos comprometemos em utilizar parte das vendas para fornecer produtos gratuitamente para as escolas, para que as meninas não sejam impedidas de frequentar a escola por causa da falta de produtos de higiene íntima.
 Juntos, nós podemos ajudar a dar dignidade e acesso à educação para quem sofre com a pobreza menstrual no Brasil. Agradecemos por sua contribuição para a causa e por comprar em nossa loja.
