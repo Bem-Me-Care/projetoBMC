@@ -47,7 +47,6 @@
 
 # BEM ME CARE
 Bem Me Care é uma loja virtual criada com o intuito de trazer produtos de higiene intima para pessoas que menstruam. Além disso, parte das vendas são destinadas para ajudar a combater a pobreza menstrual no Brasil. 
-No Brasil.
 
 ## Produtos
 
