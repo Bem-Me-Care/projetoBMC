@@ -3,11 +3,11 @@
 <img src="https://user-images.githubusercontent.com/91226847/227219752-704b18a9-a69f-42bf-b7bd-4fc4b7d8fc06.png" height="260" width="262" />
 </div>
 
-<h1 align="left">Projeto Java- </h1>
+<h1 align="left">Projeto Java</h1>
 
 ###
 
-<p align="left">Projeto desenvolvido durante o curso da Generation Brasil<br><br>Desenvolvimento de projeto feito pelo Grupo 4<br>Projeto Java para conclusão do Bloco II do curso da Generation Brasil - Pessoa Desenvolvedora Java</p>
+<p align="left">Projeto desenvolvido durante o curso da Generation Brasil, feito pelo Grupo 4 em Java para conclusão do Bloco II</p>
 
 ###
 
@@ -15,11 +15,12 @@
 
 ###
 
-<p align="left"></p>
+- Cadastro | Produtos | Usuários
+- Consulta por ID, Produtos, Categorias
 
 ###
 
-<h2 align="left">Stacks utilizada</h2>
+<h2 align="left">Tecnologias e Ferramentas utilizada</h2>
 
 ###
 
@@ -39,40 +40,28 @@
 
 ###
 
-
-
 ###
 
-
-
 # BEM ME CARE
-Bem Me Care é uma loja virtual criada com o intuito de trazer produtos de higiene intima para pessoas que menstruam. Além disso, parte das vendas são destinadas para ajudar a combater a pobreza menstrual no Brasil. 
+
+## Quem somos?
+
+Nosso compromisso é ser inclusivo e inovador, promovendo acessibilidade à higiene de forma sustentável.
+Contamos com tecnologia que propõe conforto no uso, absorção rápida, impermeabilidade e antibacteriana.
+
+## Nossa missão
+
+Nossa missão é diminuir a pobreza menstrual em escolas públicas através da distribuição de absorventes para pessoas que não têm acesso e que consequentemente necessitam se ausentar das aulas durante esse período.
+Queremos que todas as pessoas se sintam inclusas, independentemente de gênero e condições sociais.
 
 ## Produtos
 
 Aqui você encontra os melhores produtos para cuidar da sua saúde íntima:
 
-- Absorventes higiênicos
-- Absorventes noturnos
-- Calcinhas absorventes
-- Pantanas
-- Lenços umedecidos
-- Sabonetes íntimos
-- Óleos íntimos
-- Hidratantes íntimos
+- Absorventes adaptáveis para cueca/calcinha box;
+- Absorventes Interno;
+- Coletor menstrual;
 
-## Entrega
-
-Fazemos entregas 
-
-
-# Nossa missão
-
- É a de trazer acesso e dignidade para as pessoas que sofrem com a pobreza menstrual.
- Estamos comprometidos em fornecer produtos de higiene intima de boa qualidade para que possamos melhorar a qualidade de vida dessas pessoas. Além disso, estamos trabalhando para fornecer esses produtos gratuitamente para escolas, para que as pessoas possam ter acesso a eles.
-Ao adquirir produtos em nossa loja, você estará contribuindo para ajudar a combater a pobreza menstrual no Brasil. Nós nos comprometemos em utilizar parte das vendas para fornecer produtos gratuitamente para as escolas, para que as meninas não sejam impedidas de frequentar a escola por causa da falta de produtos de higiene íntima.
-Juntos, nós podemos ajudar a dar dignidade e acesso à educação para quem sofre com a pobreza menstrual no Brasil. Agradecemos por sua contribuição para a causa e por comprar em nossa loja.
-#FiqueLigado #BemMeCare #PobrezaMenstrual #Educação
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/91226847/227217398-24ca6582-e6c6-4697-b9c9-c2289a808c61.png" width="800">
@@ -80,15 +69,13 @@ Juntos, nós podemos ajudar a dar dignidade e acesso à educação para quem sof
 
 ## A Pobreza Menstrual no Brasil
 Estima-se que mais de 50% das mulheres não têm acesso a produtos de higiene íntima e são obrigadas a usar métodos improvisados, o que frequentemente leva a infecções graves.
-🤒 Além disso, muitas vezes as alunas não estão preparadas para lidar com a menstruação e acabam faltando às aulas. 🤦‍♀️</br>
+🤒 Além disso, muitas vezes as alunas não estão preparadas para lidar com a menstruação e acabam faltando às aulas. 🤦‍♀️
+Fonte: <a href="https://korui.com.br/o-que-e-pobreza-menstrual-e-como-combater/">Korui</a>.
+</br>
 <img src="https://user-images.githubusercontent.com/91226847/227224050-6048b3d4-fb55-4552-9d74-d7ff487aa5c4.png" height="450" width="802"/>
 
-## Desenvolvimento do Projeto
 
-
----
-## Requisições
-
+## Requisições desenvolvidas no projeto
 
 | Método | Request Endpoint | Descrição | 
 | ------ | ---------------- | --------- |
@@ -105,14 +92,14 @@ Estima-se que mais de 50% das mulheres não têm acesso a produtos de higiene í
 
 ## Conclusão
 <p>
-A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a preços acessíveis, com o objetivo de ajudar na luta contra a pobreza menstrual no Brasil. 🙌 Juntemos forças para dar dignidade e acesso à educação para as meninas que sofrem com a pobreza menstrual no Brasil. 🤝 Agradecemos por sua contribuição para a causa e por comprar em nossa loja. #FiqueLigado #BemMeCare #EmpoderandoMulheres #PobrezaMenstrual #EducaçãoParaTodas 
-💜
+A Bem Me Care oferecerá produtos de higiene íntima de qualidade a preços acessíveis, com o objetivo de ajudar na luta contra a pobreza menstrual no Brasil. 🙌 
+Juntaremos forças para dar dignidade e acesso à educação para as pessoas que sofrem com a pobreza menstrual no Brasil. 
+
+🤝 Agradecemos por sua contribuição para a causa.💜
 </p>
 
-## Desenvolvido por:
-
+## Equipe desenvolvedora:
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -174,9 +161,3 @@ A loja virtual Bem Me Care oferecerá produtos de higiene íntima de qualidade a
   </tr>
 </table>
 </div>
-
-## Agradecimentos
-
-## Contribuindo
-
-Contribuições são sempre bem-vindas!
